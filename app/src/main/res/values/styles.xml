@@ -1,0 +1,9 @@
+<resources>
+
+    <!--app start theme that has not title bar and state bar-->
+    <style name="Theme.AppStart" parent="android:Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@mipmap/welcome</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

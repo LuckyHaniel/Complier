@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/emotion_layout"
+    android:orientation="vertical"
+    android:visibility="gone"
+    android:background="?attr/keyboard_panel_background"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/view_pager"
+        android:paddingTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"/>
+
+    <include layout="@layout/view_horizontal_line"/>
+
+    <!--the sort of emotion-->
+    <LinearLayout
+        android:id="@+id/tab_nav"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="30dp">
+        <TextView
+            android:gravity="center"
+            android:text="开"
+            android:background="?attr/keyboard_emotion_tab_item_background"
+            android:textColor="?attr/keyboard_emotion_tab_item_text"
+            android:padding="5dp"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@null" />
+        <TextView
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="源"
+            android:background="?attr/keyboard_emotion_tab_item_background"
+            android:textColor="?attr/keyboard_emotion_tab_item_text"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@null" />
+        <TextView
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="中"
+            android:background="?attr/keyboard_emotion_tab_item_background"
+            android:textColor="?attr/keyboard_emotion_tab_item_text"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@null" />
+        <TextView
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="国"
+            android:background="?attr/keyboard_emotion_tab_item_background"
+            android:textColor="?attr/keyboard_emotion_tab_item_text"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@null" />
+        <ImageView
+            android:id="@+id/iv_backspace"
+            android:background="?attr/keyboard_emotion_tab_item_background"
+            android:src="@mipmap/icon_emotion_backspace"
+            android:gravity="center"
+            android:padding="8dp"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@null" />
+    </LinearLayout>
+
+    <include layout="@layout/view_horizontal_line"/>
+
+</LinearLayout>

@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">开源中国</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="news">资讯</string>
+    <string name="change_theme">改变主题</string>
+    <string name="setting">设置</string>
+    <string name="tweets">动弹</string>
+    <string name="blog">博客</string>
+    <string name="explore">发现</string>
+    <string name="technology_question_answer">技术问答</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+    <string name="loading">加载中...</string>
+    <string name="load_failed">加载失败</string>
+    <string name="invalid_network">没有可用的网络</string>
+    <string name="load_no_more">已经到底了~</string>
+    <string name="_new">最新</string>
+    <string name="week_news">周度资讯</string>
+    <string name="search">搜索</string>
+    <string name="reminder">提醒</string>
+    <string name="about">关于</string>
+    <string name="logout">注销</string>
+    <string name="refreshing">正在刷新</string>
+    <string name="month_news">月度资讯</string>
+    <string name="zero">0</string>
+    <string name="new_news">最新资讯</string>
+    <string name="share">分享</string>
+    <string name="like">赞</string>
+    <string name="collection">收藏</string>
+    <string name="comment">评论</string>
+    <string name="publish_on">发布时间:</string>
+    <string name="error">出了点小问题</string>
+    <string name="activity">活动</string>
+    <string name="bingo">嘟嘟噜</string>
+    <string name="post">问答</string>
+    <string name="software">软件</string>
+    <string name="news_detail">新闻详情</string>
+    <string name="blog_detail">博客详情</string>
+    <string name="post_detail">帖子详情</string>
+    <string name="tweet_detail">动弹详情</string>
+    <string name="software_detail">软件详情</string>
+    <string name="repaste">转载</string>
+    <string name="original">原创</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_say_something">说点什么吧</string>
+    <string name="emotion_qq">QQ表情</string>
+    <string name="donate_me">捐助我</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="action_example">Example action</string>
+    <string name="text">文字</string>
+    <string name="image">相册</string>
+    <string name="photograph">拍照</string>
+    <string name="voice">语音</string>
+    <string name="scan">扫一扫</string>
+    <string name="please_input_your_email_or_nick">邮箱/昵称</string>
+    <string name="login">登录</string>
+    <string name="please_input_password">密码</string>
+    <string name="are_you_sure_logout">确认注销账号?</string>
+    <string name="cancel">取消</string>
+    <string name="publishing_comment"><![CDATA[正在发表哦o(>﹏<)o]]></string>
+    <string name="copy">复制</string>
+    <string name="delete">删除</string>
+    <string name="are_you_sure_delete_the_comment">你确定删除该评论?</string>
+    <string name="deleting_comment">正在删除该评论</string>
+    <string name="publish">发表</string>
+    <string name="dan_yi_dan">弹一弹</string>
+    <string name="let_us_fuck_it">弹一弹, #软件名#, @好友</string>
+    <string name="go_to_login"><![CDATA[去登录>>>]]></string>
+    <string name="my_blog">我的博客</string>
+    <string name="my_tweet">我的动弹</string>
+    <string name="my_favorite">我的收藏</string>
+    <string name="integral">积分</string>
+    <string name="integral_count">积分\n0</string>
+    <string name="collection_count">收藏\n0</string>
+    <string name="follow_count">关注\n0</string>
+    <string name="fans_count">粉丝\n0</string>
+    <string name="devplatform">devplatform:</string>
+    <string name="develop_platform">Develop Platform</string>
+    <string name="expertise">Expertise</string>
+    <string name="follow">关注</string>
+    <string name="fans">粉丝</string>
+</resources>
